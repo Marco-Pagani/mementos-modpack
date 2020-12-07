@@ -1,0 +1,55 @@
+
+#Piglin Brute Configuration
+[piglin_brute_configuration]
+	#Maximum group size of Piglin Brutes spawning in the Nether Wastes and Crimson Forests [0-100, default: 1]
+	#Range: 0 ~ 100
+	bruteMaxGroupSize = 1
+	#Minimum group size of Piglin Brutes spawning in the Nether Wastes and Crimson Forests [0-100, default: 1]
+	#Range: 0 ~ 100
+	bruteMinGroupSize = 1
+	#Spawn weight of Piglin Brutes spawning in the Nether Wastes and Crimson Forests [0-100, default: 1]
+	#Range: 0 ~ 100
+	bruteSpawnWeight = 1
+	#Enable the spawning of Piglin Brutes in Nether Wastes and Crimson Forests. [true / false]
+	enableBrutesOutsideBastions = false
+
+#Baby Piglin Brute Configuration
+[baby_piglin_brute_configuration]
+	#Enable the random spawning of baby Piglin Brutes during structure generation. You need to enable this before you create a world, and also need enableBabyBrutes set to true. [true / false]
+	enableBastionBabyBrutes = false
+	#Enable the spawning of baby Piglin Brutes. [true / false]
+	enableBabyBrutes = false
+	#Allow baby Piglin Brutes to spawn with Golden Axes. [true / false]
+	enableBabyBrutesArmed = false
+	#Enable the random spawning of baby Piglin Brutes, when not spawned from structure generation. You also need enableBabyBrutes set to true. [true / false]
+	enableRandomBabyBrutes = false
+
+#Ziglin Brute Configuration
+[ziglin_brute_configuration]
+	#Maximum group size of Ziglin Brutes spawning in the Nether Wastes and Crimson Forests [0-100, default: 1]
+	#Range: 0 ~ 100
+	ziglinBruteMaxGroupSize = 1
+	#Enable the spawning of Ziglin Brutes in Nether Wastes and Crimson Forests. You also need enableZiglinBrutes set to true. [true / false]
+	enableZiglinBrutesSpawnNaturally = false
+	#Minimum group size of Ziglin Brutes spawning in the Nether Wastes and Crimson Forests [0-100, default: 1]
+	#Range: 0 ~ 100
+	ziglinBruteMinGroupSize = 1
+	#Enable the zombification of Piglin Brutes into Ziglin Brutes instead of vanilla Zombified Piglins. You also need enableZiglinBrutes set to true. [true / false]
+	enableBrutesBecomeZiglinBrutes = true
+	#Spawn weight of Ziglin Brutes spawning in the Nether Wastes and Crimson Forests [0-100, default: 1]
+	#Range: 0 ~ 100
+	ziglinBruteSpawnWeight = 1
+	#If enabled, Ziglin Brutes are hostile to all living creatures on sight - including you. [true / false]
+	enableViciousZiglinBrutes = false
+	#Enable the spawning of Ziglin Brutes - the Zombified version of Piglin Brutes. [true / false]
+	enableZiglinBrutes = true
+
+#Baby Ziglin Brute Configuration
+[baby_ziglin_brute_configuration]
+	#Enable the spawning of baby Ziglin Brutes. You also need enableZiglinBrutes set to true. [true / false]
+	enableBabyZiglinBrutes = false
+	#Allow baby Ziglin Brutes to spawn with Golden Axes. [true / false]
+	enableBabyZiglinBrutesArmed = false
+	#Enable the random spawning of baby Ziglin Brutes. You also need enableBabyZiglinBrutes set to true. [true / false]
+	enableRandomBabyZiglinBrutes = false
+

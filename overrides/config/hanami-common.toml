@@ -1,0 +1,10 @@
+
+#Common configurations for Hanami
+[common]
+
+	#Values for biome frequencies; lower = more rare. (Requires restart)
+	[common.biome_weights]
+		"Sakura Rolling Hills weight" = 3
+		"Sakura Forest height" = 4
+		"Sakura Mountains weight" = 2
+

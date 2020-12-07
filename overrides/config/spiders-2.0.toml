@@ -1,0 +1,7 @@
+#Whether natural spider spawns should be replaced. This includes e.g. mob spawners and spawn eggs, but not commands.
+replace_natural_spawns = true
+#Whether any spider spawns should be replaced. This also applies retroactively to already existing spiders.
+replace_any_spawns = true
+#Whether the path finder debug preview should be enabled.
+path_finder_debug_preview = false
+

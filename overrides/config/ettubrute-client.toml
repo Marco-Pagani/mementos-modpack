@@ -1,0 +1,6 @@
+
+#Camlin Brute Configuration
+[camlin_brute_configuration]
+	#Enable to make naming a Piglin Brute 'Cam', 'Cameron', and on August 24th, 'Birthday Boy' or 'Birthday Boi', turn it into a Camlin Brute. [true / false]
+	enableCamlinBrute = true
+

@@ -1,0 +1,23 @@
+#Range: > 0
+"Despawn Time" = 1200
+"Disable Throw Enchant" = false
+"Disable Conccusion Enchant" = false
+#Range: 0.0 ~ 256.0
+"Base Damage Multiplier" = 1.0
+"Can throw all items in game?" = true
+"Not throw when item is cooldown" = false
+#Range: > 0
+"Ticks until weapon lose owner" = 160
+"Should gravity drop after time?" = false
+#Range: 0.0 ~ 256.0
+"Base Exhaustion Multiplier" = 1.0
+"Disable Grounded Edge Enchant" = false
+#Range: > 0
+"Max Casting time in ticks" = 200
+"Disable Gravity Enchant" = false
+#Range: 0.0 ~ 256.0
+"Modified (Charging) Damage Multiplier" = 1.0
+#Range: 0.0 ~ 256.0
+"Modified (Charging) Exhaustion Multiplier" = 1.0
+"Block Item Sound" = false
+
